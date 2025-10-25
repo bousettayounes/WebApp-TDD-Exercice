@@ -95,11 +95,3 @@ Si tu veux contribuer :
 * Crée une branche (feature / fix)
 * Ajoute tes tests
 * Fais un pull request
-
-## Licence
-
-*(Met ici la licence de ton projet, par exemple MIT ou autre)*
-
----
-
-Si tu veux, je peux te générer un README complet et adapté **automatiquement** en fonction du contenu exact de ton projet (avec toutes les routes, tests, data, etc.). Tu veux que je fasse ça ?
