@@ -1,9 +1,5 @@
-Voici une proposition de **README.md** pour ton projet *WebApp-TDD-Exercice*. Tu peux l’adapter selon ce que tu veux mettre ou ce que tu as déjà commencé.
-
----
-
 # WebApp-TDD-Exercice
-
+---
 ## Description
 
 Une WebApp avec approche **TDD** (Test-Driven Development). Ce projet permet de ... *(décris ici ce que fait ton application — par exemple : gestion de clubs, compétitions, affichage de données via JSON, API, etc.)*
